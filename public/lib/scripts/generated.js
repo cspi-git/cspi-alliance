@@ -1,0 +1,1 @@
+let nodes={paths:["!discord-servers.html","!websites.html","index.html","privacy-policy.html"],nodeCount:4,linkSources:[2],linkTargets:[3],labels:["!Discord Servers","!Websites","Index","Privacy Policy"],radii:[3,3,7,7],linkCount:1},attractionForce=1,linkLength=10,repulsionForce=150,centralForce=3,edgePruning=100
